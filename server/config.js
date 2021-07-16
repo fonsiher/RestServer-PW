@@ -5,7 +5,7 @@ process.env.PORT = process.env.PORT || 3000;
 
 //Base de datos
 
-process.env.NODE_ENV = process.env.NODE_ENV || 'dev';
+process.env.NODE_ENV = process.env.NODE_ENV || 'devs';
 console.log(process.env.NODE_ENV);
 
 let urlDB;
